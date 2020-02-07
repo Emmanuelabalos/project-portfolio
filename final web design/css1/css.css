@@ -1,0 +1,84 @@
+head{
+   font-family: times new roman
+}
+
+header{
+   background-color: turquoise;
+}
+   
+.top-container{
+   text-align: center;
+}
+
+#pic{
+   border-radius: 4in;
+   width: 2in;
+   height: 2in;
+   text-align: center;
+   margin-bottom: 0px;
+   margin-top: 50px;
+}
+
+.cloud1
+{
+   image-orientation: flip;
+}
+h1{
+   font-family: 'Courier', Courier, monospace;
+}
+body {
+   text-align: center;
+   background: linear-gradient(to bottom, #f582a8,#FCC0C5,teal,#F2E6D6);
+   -webkit-background-clip: initial;
+}
+
+
+.Skills{
+    text-align: center;
+}
+
+.browser{
+    padding-left: 100px;
+}
+
+.cloud1{
+   text-align: right;
+   padding-right: 20%;
+}
+
+#browser{
+   margin-right: 700px;
+   margin-bottom: 50px;
+   position: absolute;
+   left: 40%;
+   height: 50px;
+   width: 45px;
+}
+
+.ASTRONOMY{
+   position: relative;
+   margin-bottom: 50px;
+}
+
+#footer{
+   background-color: skyblue;
+   padding-top: 50px;
+   padding-bottom: 50px;
+}
+
+#copy{
+   font-family: lucida calligraphy;
+   font-size: 20px;
+}
+
+#comment{
+   margin-bottom: 50px;
+}
+
+#touchbytouch{
+margin-top: 150px;
+}
+
+#Love {
+   margin-bottom: 100px;
+}
